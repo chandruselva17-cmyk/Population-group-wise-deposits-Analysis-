@@ -4,6 +4,7 @@ An end-to-end data analytics and statistical modeling project evaluating spatial
 
 
 📖 Project Overview
+
 This repository contains a full-lifecycle empirical analysis of district-level and population group-wise banking deposit datasets in India spanning 2019 to 2026.
 
 The primary objective is to evaluate financial inclusion progress, branch infrastructure yield, and capital concentration across four demographic tiers: Rural, Semi-Urban, Urban, and Metropolitan. The analysis systematically applies data cleaning, targeted missing-value imputation, feature engineering, descriptive/inferential statistics, and univariate/bivariate/multivariate visualizations.
